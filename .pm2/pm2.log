@@ -1,0 +1,171 @@
+/home/ec2-user/.nvm/versions/node/v7.10.1/lib/node_modules/pm2/node_modules/chokidar/index.js:904
+  const options = {type: EV_ALL, alwaysStat: true, lstat: true, ...opts};
+                                                                ^^^
+SyntaxError: Unexpected token ...
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/ec2-user/.nvm/versions/node/v7.10.1/lib/node_modules/pm2/lib/Watcher.js:6:16)
+/home/ec2-user/.nvm/versions/node/v7.10.1/lib/node_modules/pm2/node_modules/chokidar/index.js:904
+  const options = {type: EV_ALL, alwaysStat: true, lstat: true, ...opts};
+                                                                ^^^
+SyntaxError: Unexpected token ...
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/ec2-user/.nvm/versions/node/v7.10.1/lib/node_modules/pm2/lib/Watcher.js:6:16)
+/home/ec2-user/.nvm/versions/node/v7.10.1/lib/node_modules/pm2/node_modules/chokidar/index.js:904
+  const options = {type: EV_ALL, alwaysStat: true, lstat: true, ...opts};
+                                                                ^^^
+SyntaxError: Unexpected token ...
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/ec2-user/.nvm/versions/node/v7.10.1/lib/node_modules/pm2/lib/Watcher.js:6:16)
+/home/ec2-user/.nvm/versions/node/v7.10.1/lib/node_modules/pm2/node_modules/chokidar/index.js:904
+  const options = {type: EV_ALL, alwaysStat: true, lstat: true, ...opts};
+                                                                ^^^
+SyntaxError: Unexpected token ...
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/ec2-user/.nvm/versions/node/v7.10.1/lib/node_modules/pm2/lib/Watcher.js:6:16)
+/home/ec2-user/.nvm/versions/node/v7.10.1/lib/node_modules/pm2/node_modules/chokidar/index.js:904
+  const options = {type: EV_ALL, alwaysStat: true, lstat: true, ...opts};
+                                                                ^^^
+SyntaxError: Unexpected token ...
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/ec2-user/.nvm/versions/node/v7.10.1/lib/node_modules/pm2/lib/Watcher.js:6:16)
+/home/ec2-user/.nvm/versions/node/v7.10.1/lib/node_modules/pm2/node_modules/chokidar/index.js:904
+  const options = {type: EV_ALL, alwaysStat: true, lstat: true, ...opts};
+                                                                ^^^
+SyntaxError: Unexpected token ...
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/ec2-user/.nvm/versions/node/v7.10.1/lib/node_modules/pm2/lib/Watcher.js:6:16)
+/home/ec2-user/.nvm/versions/node/v7.10.1/lib/node_modules/pm2/node_modules/chokidar/index.js:904
+  const options = {type: EV_ALL, alwaysStat: true, lstat: true, ...opts};
+                                                                ^^^
+SyntaxError: Unexpected token ...
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/ec2-user/.nvm/versions/node/v7.10.1/lib/node_modules/pm2/lib/Watcher.js:6:16)
+/home/ec2-user/.nvm/versions/node/v7.10.1/lib/node_modules/pm2/node_modules/chokidar/index.js:904
+  const options = {type: EV_ALL, alwaysStat: true, lstat: true, ...opts};
+                                                                ^^^
+SyntaxError: Unexpected token ...
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/ec2-user/.nvm/versions/node/v7.10.1/lib/node_modules/pm2/lib/Watcher.js:6:16)
+/home/ec2-user/.nvm/versions/node/v7.10.1/lib/node_modules/pm2/node_modules/chokidar/index.js:904
+  const options = {type: EV_ALL, alwaysStat: true, lstat: true, ...opts};
+                                                                ^^^
+SyntaxError: Unexpected token ...
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/ec2-user/.nvm/versions/node/v7.10.1/lib/node_modules/pm2/lib/Watcher.js:6:16)
+/home/ec2-user/.nvm/versions/node/v7.10.1/lib/node_modules/pm2/node_modules/chokidar/index.js:904
+  const options = {type: EV_ALL, alwaysStat: true, lstat: true, ...opts};
+                                                                ^^^
+SyntaxError: Unexpected token ...
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/ec2-user/.nvm/versions/node/v7.10.1/lib/node_modules/pm2/lib/Watcher.js:6:16)
+/home/ec2-user/.nvm/versions/node/v7.10.1/lib/node_modules/pm2/node_modules/chokidar/index.js:904
+  const options = {type: EV_ALL, alwaysStat: true, lstat: true, ...opts};
+                                                                ^^^
+SyntaxError: Unexpected token ...
+    at createScript (vm.js:53:10)
+    at Object.runInThisContext (vm.js:95:10)
+    at Module._compile (module.js:543:28)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:488:32)
+    at tryModuleLoad (module.js:447:12)
+    at Function.Module._load (module.js:439:3)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.<anonymous> (/home/ec2-user/.nvm/versions/node/v7.10.1/lib/node_modules/pm2/lib/Watcher.js:6:16)
+2019-12-05 02:59:57: ===============================================================================
+2019-12-05 02:59:57: --- New PM2 Daemon started ----------------------------------------------------
+2019-12-05 02:59:57: Time                 : Thu Dec 05 2019 02:59:57 GMT+0000 (UTC)
+2019-12-05 02:59:57: PM2 version          : 2.5.0
+2019-12-05 02:59:57: Node.js version      : 7.10.1
+2019-12-05 02:59:57: Current arch         : x64
+2019-12-05 02:59:57: PM2 home             : /home/ec2-user/.pm2
+2019-12-05 02:59:57: PM2 PID file         : /home/ec2-user/.pm2/pm2.pid
+2019-12-05 02:59:57: RPC socket file      : /home/ec2-user/.pm2/rpc.sock
+2019-12-05 02:59:57: BUS socket file      : /home/ec2-user/.pm2/pub.sock
+2019-12-05 02:59:57: Application log path : /home/ec2-user/.pm2/logs
+2019-12-05 02:59:57: Process dump file    : /home/ec2-user/.pm2/dump.pm2
+2019-12-05 02:59:57: Concurrent actions   : 2
+2019-12-05 02:59:57: SIGTERM timeout      : 1600
+2019-12-05 02:59:57: ===============================================================================
+2019-12-05 03:01:22: Starting execution sequence in -fork mode- for app name:Server id:0
+2019-12-05 03:01:22: App name:Server id:0 online
