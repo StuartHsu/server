@@ -123,3 +123,7 @@ input {
   display: none;
   color: red;
 }
+
+.image {
+  margin: 0 10px;
+}
