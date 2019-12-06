@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+      <title>Management Page</title>
+      <link rel="stylesheet" href="../stylesheets/style.css">
+      <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script> -->
+  </head>
+
+  <body>
+    <div class="container">
+      <div class="heading">
+        <h1>產品登錄後台</h1>
+        <p>登錄</p>
+        <h2>你登錄一下r</h2>
+        <div class="hint">
+          <p id="nodata"></p>
+        </div>
+        <div class="login">
+          <form class="form" action="/admin/product.html" method="POST">
+
+            <div class="form-group">
+              <label for="id">ID:</label>
+              <input type="text" class="form-control" name="id" id="id" required="required">
+            </div>
+            <div class="form-group">
+              <label for="title">名稱:</label>
+              <input type="text" class="form-control" name="title" id="title" required="required">
+            </div>
+            <div class="form-group">
+              <label for="description">簡述:</label>
+              <input type="text" class="form-control" name="description" id="description" required="required">
+            </div>
+            <div class="form-group">
+              <label for="price">價格:</label>
+              <input type="text" class="form-control" name="price" id="price" required="required">
+            </div>
+            <div class="form-group">
+              <label for="texture">材質:</label>
+              <input type="text" class="form-control" name="texture" id="texture">
+            </div>
+            <div class="form-group">
+              <label for="wash">洗滌:</label>
+              <input type="text" class="form-control" name="wash" id="wash">
+            </div>
+            <div class="form-group">
+              <label for="place">產地:</label>
+              <input type="text" class="form-control" name="place" id="place">
+            </div>
+            <div class="form-group">
+              <label for="note">備註:</label>
+              <input type="text" class="form-control" name="note" id="note">
+            </div>
+            <div class="form-group">
+              <label for="story">產品故事:</label>
+              <input type="text" class="form-control" name="story" id="story">
+            </div>
+            <div class="form-group">
+              <label for="color">顏色:</label>
+              <input type="text" class="form-control" name="color" id="color" required="required">
+            </div>
+            <div class="form-group">
+              <label for="size">尺寸:</label>
+              <input type="text" class="form-control" name="size" id="size" required="required">
+            </div>
+            <div class="form-group">
+              <label for="stock">庫存:</label>
+              <input type="text" class="form-control" name="stock" id="stock" required="required">
+            </div>
+            <div class="form-group">
+              <label for="type">類型:</label>
+              <input type="text" class="form-control" name="type" id="type" required="required">
+            </div>
+            <div class="form-group">
+              <label for="hot_title">促銷名稱:</label>
+              <input type="text" class="form-control" name="hot_title" id="hot_title">
+            </div>
+              <button type="submit" class="button" id="submit">登錄</button>
+              <!-- <button class="button" id="login">登入</button> -->
+
+          </form>
+        </div>
+      </div>
+    </div>
+  </body>
+
+</html>
