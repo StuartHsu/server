@@ -169,3 +169,13 @@ SyntaxError: Unexpected token ...
 2019-12-05 02:59:57: ===============================================================================
 2019-12-05 03:01:22: Starting execution sequence in -fork mode- for app name:Server id:0
 2019-12-05 03:01:22: App name:Server id:0 online
+2019-12-05 06:22:54: Stopping app:Server id:0
+2019-12-05 06:22:54: App [Server] with id [0] and pid [3914], exited with code [0] via signal [SIGINT]
+2019-12-05 06:22:54: pid=3914 msg=process killed
+2019-12-05 06:25:13: Starting execution sequence in -fork mode- for app name:Express id:1
+2019-12-05 06:25:13: App name:Express id:1 online
+2019-12-05 06:25:35: Stopping app:Express id:1
+2019-12-05 06:25:35: App [Express] with id [1] and pid [1219], exited with code [0] via signal [SIGINT]
+2019-12-05 06:25:35: pid=1219 msg=process killed
+2019-12-05 06:26:04: Starting execution sequence in -fork mode- for app name:Express id:1
+2019-12-05 06:26:04: App name:Express id:1 online
